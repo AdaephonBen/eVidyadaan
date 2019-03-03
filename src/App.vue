@@ -1,49 +1,50 @@
 <template>
   <div id="app">
   <b-navbar toggleable="lg" type="dark" variant="info">
-    <b-navbar-brand href="#">eVidyadaan</b-navbar-brand>
+    <b-navbar-brand href="http://evidyadaan.netlify.com">eVidyadaan</b-navbar-brand>
     <b-navbar-toggle target="nav_collapse" />
     <b-collapse is-nav id="nav_collapse">
       <b-navbar-nav>
-        <div v-for="index in 12" :key="index">
-          <b-nav-item-dropdown v-bind:text="'Grade ' + index">
-            <div v-for="(ppts,pptID) in presentations" :key="ppts">
-              <b-dropdown-item v-if="ppts.grade === index" v-on:click="generateIframe(pptID)">{{ppts.title}}</b-dropdown-item>
-            </div>
+        <div v-for="grade in json" :key="grade">
+          <b-nav-item-dropdown :text="grade.name">
+            <b-dropdown-item v-for="subject in grade.subjects" :key="subject" v-on:click="selectedSubject = subject">{{subject.name}}</b-dropdown-item>
           </b-nav-item-dropdown>
         </div>
       </b-navbar-nav>
-      
+
     </b-collapse>
   </b-navbar>
+  <br v-if="selectedSubject == null">
+  <div v-if ="selectedSubject != null" >
+    <b-list-group v-for="ppt in selectedSubject.ppts" :key="ppt">
+      <b-list-group-item v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" >{{ppt.name}}  <b-button variant="outline-primary" :href="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'">View</b-button>&nbsp;<b-button variant="outline-primary" :href="'https://docs.google.com/presentation/d/'+downloadsrc+'/export/pdf'">Download this presentation</b-button></b-list-group-item>
+    </b-list-group>
+  </div>
   <br />
-  <iframe :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <br />
-  <a :href="'https://docs.google.com/presentation/d/'+downloadsrc+'/export/pdf'">Download this presentation</a>
+  
   </div>
 </template>
 
 <script>
-
+import json from './presentations.json'
 export default {
   name: 'app',
   components: {},
   data() {
-    var presentations = []
-    var iframesrc = '2PACX-1vRgk-rSIm4b5jKL85hsomE_1dHAgf79UnT62mxq_ahKBBzAltOrkT7dS7EjYQlTLHTDnFO0B6E-8vHu'
-    var downloadsrc = '1FfoD4Vw6NhixFdZ45V8wp6pl_5hpqeYBhbt-aXbn7W0' 
-    presentations[0] = {title: 'Chemical Reactions and Equations', grade: 10, iframesrc: '2PACX-1vSyG1poqfYfc50RDxJrocqX90QuvInHB3IXQWMZNwyRkcSUna2DIRmaHRhKHYQiC3W0EuXCmI9FVpCs', download: '1woqw-TPMANvkGvOkNGKeyLJ1wBDp1MM5P-7d2eIwf6s'};
-
+    var iframesrc = '2PACX-1vSUScgVpG2sORQbq-F0tP91q-hNWvrxOSzhkGZVVkMUtk_qkxOrwAOjdFILFF8rfpSPJu59HPPNpEF6';
+    var downloadsrc = '1YsWVrSc8Tt-w9ssmJ1T-vgRAdLcoLazMERpeWQnYcpU';
+    var selectedSubject = null ;
     return{
-      presentations,
+      json,
       iframesrc,
-      downloadsrc
+      downloadsrc,
+      selectedSubject
     }
   },
   methods: {
-    generateIframe(pptID) {
-      this.iframesrc = this.presentations[pptID].iframesrc;
-      this.downloadsrc = this.presentations[pptID].download;
+    generateIframe(dlink,vlink) {
+      this.iframesrc = vlink;
+      this.downloadsrc = dlink;
     }
   }
 }
@@ -54,6 +55,10 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
+}
+a
+{
+  text-align: right;
 }
 </style>
