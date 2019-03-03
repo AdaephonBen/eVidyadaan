@@ -20,10 +20,11 @@
       <b-list-group-item><b-button  v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" variant="outline-primary" >{{ppt.name}}</b-button></b-list-group-item>
     </b-list-group>
   </div>
+  <div v-if="iframesrc != null" id="lol" class="resp-container">
+    <iframe class="resp-iframe" :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  </div>
   <br />
-  <div v-if="iframesrc != null" id="lol">
-    <iframe :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-    <br />
+  <div v-if="iframesrc != null" class="download">
     <b-button  v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" variant="outline-primary" :href="'https://docs.google.com/presentation/d/'+downloadsrc+'/export/pdf'">Download this presentation</b-button>
   </div>
   <br />
@@ -63,12 +64,20 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
 }
-a
-{
-  text-align: right;
-}
-#lol 
-{
+.download {
   text-align: center;
+}
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 58.515625%;
+}
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
 </style>
