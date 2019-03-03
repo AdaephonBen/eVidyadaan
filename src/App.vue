@@ -7,7 +7,7 @@
       <b-navbar-nav>
         <div v-for="grade in json" :key="grade">
           <b-nav-item-dropdown :text="grade.name">
-            <b-dropdown-item v-for="subject in grade.subjects" :key="subject" v-on:click="selectedSubject = subject">{{subject.name}}</b-dropdown-item>
+            <b-dropdown-item v-for="subject in grade.subjects" :key="subject" v-on:click="selectedSubject = subject; iframesrc = null ;">{{subject.name}}</b-dropdown-item>
           </b-nav-item-dropdown>
         </div>
       </b-navbar-nav>
@@ -15,10 +15,16 @@
     </b-collapse>
   </b-navbar>
   <br v-if="selectedSubject == null">
-  <div v-if ="selectedSubject != null" >
+  <div v-if ="selectedSubject != null && iframesrc == null" >
     <b-list-group v-for="ppt in selectedSubject.ppts" :key="ppt">
-      <b-list-group-item v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" >{{ppt.name}}  <b-button variant="outline-primary" :href="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'">View</b-button>&nbsp;<b-button variant="outline-primary" :href="'https://docs.google.com/presentation/d/'+downloadsrc+'/export/pdf'">Download this presentation</b-button></b-list-group-item>
+      <b-list-group-item><b-button  v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" variant="outline-primary" >{{ppt.name}}</b-button></b-list-group-item>
     </b-list-group>
+  </div>
+  <br />
+  <div v-if="iframesrc != null" id="lol">
+    <iframe :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <br />
+    <b-button  v-on:click="iframesrc=ppt.vlink; downloadsrc=ppt.dlink" variant="outline-primary" :href="'https://docs.google.com/presentation/d/'+downloadsrc+'/export/pdf'">Download this presentation</b-button>
   </div>
   <br />
   
@@ -31,8 +37,8 @@ export default {
   name: 'app',
   components: {},
   data() {
-    var iframesrc = '2PACX-1vSUScgVpG2sORQbq-F0tP91q-hNWvrxOSzhkGZVVkMUtk_qkxOrwAOjdFILFF8rfpSPJu59HPPNpEF6';
-    var downloadsrc = '1YsWVrSc8Tt-w9ssmJ1T-vgRAdLcoLazMERpeWQnYcpU';
+    var iframesrc = null;
+    var downloadsrc = null;
     var selectedSubject = null ;
     return{
       json,
@@ -60,5 +66,9 @@ export default {
 a
 {
   text-align: right;
+}
+#lol 
+{
+  text-align: center;
 }
 </style>
