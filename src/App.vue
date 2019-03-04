@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <b-navbar toggleable="lg" type="dark" variant="info">
+  <b-navbar toggleable="lg" type="dark" variant="info" sticky="true">
     <b-navbar-brand href="http://evidyadaan.netlify.com">eVidyadaan</b-navbar-brand>
     <b-navbar-toggle target="nav_collapse" />
     <b-collapse is-nav id="nav_collapse">
