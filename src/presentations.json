@@ -1,19 +1,9 @@
 {
 	"Grade1":{
-		"name":"Grade 1"
-	},
-	"Grade10":{
-		"name":"Grade 10",
+		"name":"Grade 1",
 		"subjects":[
 			{
-				"name":"Science",
-				"ppts":[
-					{
-						"name":"Chemical Reactions And Equations",
-						"dlink":"1woqw-TPMANvkGvOkNGKeyLJ1wBDp1MM5P-7d2eIwf6s",
-						"vlink":"2PACX-1vSyG1poqfYfc50RDxJrocqX90QuvInHB3IXQWMZNwyRkcSUna2DIRmaHRhKHYQiC3W0EuXCmI9FVpCs"
-					}
-				]
+
 			}
 		]
 	},
@@ -34,7 +24,138 @@
 						"vlink":"2PACX-1vTmhLfSSZDu4QxUjocSuZaCnV5mK0tqW7dqqS8KBA5J8AyivyKetNq99Xfqg0SNc_onn_ehL6omoolM"
 					}
 				]
+			},
+			{
+				"name":"Mathematics",
+				"ppts":[
+					{
+						"name":"Knowing our Numbers",
+						"dlink":"1rgeYsF4FOszDzcwUMvHxrN242kaSpQeXVZLIe5NB_ck",
+						"vlink":"2PACX-1vQPBoEyKxCnw7X-jXNmFNhAu8U1q1-aqMK4feKH9T3GDv5xb4v7NypC5H18rz9WbcmwCWxMfVjGmpDY"
+					},
+					{
+						"name":"Whole Numbers",
+						"dlink":"1hfyWsb2v42F2nlP_MqylHAWQhT6e5STfbO2UGg4CNsY",
+						"vlink":"2PACX-1vSzbjCcmuXS1hSav72L4szMj6CH1nsKGjMKmP0pqUYqhAbr0UAUgzF-7hzhXH65CkTOG0RLO1cIo8MF"
+					},
+					{
+						"name":"Playing with Numbers",
+						"dlink":"1dswXGxECsCQ4UR0pdzehYeD0fxjGBQD6HleIJyQADPo",
+						"vlink":"2PACX-1vQ7HmsOyQhXF2wA1gREmxj5TBZD5RjTw5DlX756yVjVPv5iqaOM2U67kD9yN2ehDpF6zx39aVdT7fK-"
+					},
+					{
+						"name":"Basic Geometrical Ideas",
+						"dlink":"1NhaCdUpILMAnpmgy2Tg4aqwOTN7rXTMuCJP3JCmGJ8U",
+						"vlink":"2PACX-1vQQOriF5Uoe1Lg9k7s9R8h03J2Vdpu2hz1iHqoI7ZgWvw_DJiBl4cbDkhoQqfNCCPAdqRGlLWbZg8TP"
+					},
+					{
+						"name":"Understanding Elementary Shapes",
+						"dlink":"10id_Oi7DQ4AsG9iWnMipcX7waPbAdAIdv5H4IG4FHxg",
+						"vlink":"2PACX-1vRgJKc_pNXpryh4_onDqvV2c8HqE539bd0B2BWhaeAH82xmNfGQ5Rc9ZaCcd1yBRc5peYmecwlvN_uN"
+					},
+					{
+						"name":"Integers",
+						"dlink":"1ErfyYG-j7eUp0hdPmCdKKahHZPVMLv47AEq2gjWpOpk",
+						"vlink":"2PACX-1vS9ubGy1ReBPXX1E12qYKb90ix46Yz3ro_eYi6-gwtjJZe6CQ_riDD3YIhoEEH3QtzrveiTlsA75cDb"
+					},
+					{
+						"name":"Fractions",
+						"dlink":"1U6_j8zQ6W_4WuR9AuuhpAPyfstveC0C8Ye4-NeQi88o",
+						"vlink":"2PACX-1vRkoSHDA8fkD9_8Zy58jNPeEPCrQ40liJwJem-9BVuhgwkU86ykhEkFoR7LezCGMhsBIVGYk3LF7KYz"
+					},
+					{
+						"name":"Decimals",
+						"dlink":"11n6qoF2tMV82vg7o6Xmdp3Z6pFBf29dJUrIj0VXmP5E",
+						"vlink":"2PACX-1vS4G0x_46gw9VlDWVUu2LPfEbi2dDyhnWHA5HpcTTNuyPbDes4c5CgQXUrDLU76edXE2su4Oyyjwi3d"
+					},
+					{
+						"name":"Ratio and Proportion",
+						"dlink":"1ARcogWPP5KlZqv69qXgpQsk00P6TnhR1HWJN57-G6nw",
+						"vlink":"2PACX-1vSENOSwH-lf204guDduwoMJdZniVnpTJ-liGOwP_eNRkvI-RMn_S3eAlkQ01p3VpymokNr8Zc_H6HhV"
+					}
+				]
+			},
+			{
+				"name":"Science",
+				"ppts":[
+					{
+						"name":"Chapter 13 - Fun with Magnets",
+						"dlink":"1ZfFzv0vYUkwfj3vnTqY2kCxH_6AhHz3tpPgFYRbEiwk",
+						"vlink":"2PACX-1vQ2EsakQsQWmjQFha3lO4bPS11Hdvtd0MQSDmO5Kk8utEC90eF_d1R6XCqJn5reI-OvXjuDJ5TpERJm"
+					},
+					{
+						"name":"Chapter 14 - Water",
+						"dlink":"1E0HZv8InOQ3IK5B5Jj0MCAFu2I1CMpCi7BtsdQH1QW8",
+						"vlink":"2PACX-1vRPMF9YOxYr0B9TOfttRvdtGT5T4vNGc1KjlFdVZW0Da60LKpvjChRDPTqSKc8rgBXD3MNWsc-ct_nx"
+					}
+					
+				]
+			},
+			{
+				"name":"Social",
+				"ppts":[
+					{
+						"name":"Chapter 5 - What Books And Burials Tell Us",
+						"dlink":"1lfhovNPVMauPLIsEdBwsry8Fvx3l7kjdFJQc9znR994",
+						"vlink":"2PACX-1vQkYgTUZCqMKc-934KL13Ka0BVfy2K_69JvC2-gg8cyDwnqOn4RwAQ-8Og-MNVNZr7CFATzTBuuG3bV"
+					},
+					{
+						"name":"Chapter 6 - Kingdoms,Kings And An Early Public",
+						"dlink":"1iAC3ig69cmRJ7HGGrY-O5hvswBq7DZ9ONhgRSdKvHSw",
+						"vlink":"2PACX-1vS6RbgLAd3bJyHRok5i2hJbMtOEmtd2E8j8r5yNJ7CgojNCRJ05IHGSAXAlPCQ4hQWEpG4Nk5DGzPnj"
+					},
+					{
+						"name":"Chapter 7 - New Questions And Ideas ",
+						"dlink":"16bag5XTkal2elBGCm1qSAjHxJ_1sHYt0i2Buy4fTKro",
+						"vlink":"2PACX-1vQ0zDRwQuJiNY_QbaoxUckNKwoWptJ_7w6ltdvZEjTKlm2bzPn_BLTivMueSYOHo5_sN-U3CNHTGkfn"
+					},
+					{
+						"name":"Chapter 9 - Vital Villages And Thriving Towns ",
+						"dlink":"17FjuwxzxNk3YqucrFSNA2EDimX9jg_2ux4Y0LjMFtWo",
+						"vlink":"2PACX-1vT2SY3gZPEG7zy_nmb1Z-BWauUHISGSKe_onRSL1vWDZ01htCmmR_shwUCkz8jlXArM94D8nIDDlxJ1"
+					}
+
+
+	
+					
+				]
+			}
+		]
+	},
+	"Grade7":{
+		"name":"Grade 7",
+		"subjects":[
+			{
+				"name":"Mathematics",
+				"ppts":[
+					{
+						"name":"Comapring Quantites",
+						"dlink":"16ZEy12NY7u-K0WMj0MhpQeLFR7RP8E5p0F6aZqZ_Dh8",
+						"vlink":"2PACX-1vRc9mS9ZwqVUOuT2s3iWtb4TMZNda7hNlzj6shF23tOrvZzaKEcSj2wygofO77uePfOYMGtVSjrTkqf"
+					},
+					{
+						"name":"Rational Numbers",
+						"dlink":"1RoU45Pq86hzvOy4wrWL9exni_wo3-UEUSIGLTIM2K4Q",
+						"vlink":"2PACX-1vRtHsnYyiL0tYHCSPFOiFU5f5bC2r28k0Iq3NQspPY1VUg-5usHLd0XWrsJTiekVJqLMOu5CDZqpTy2"
+					}
+				]
+			}
+		]
+	},
+	"Grade10":{
+		"name":"Grade 10",
+		"subjects":[
+			{
+				"name":"Science",
+				"ppts":[
+					{
+						"name":"Chemical Reactions And Equations",
+						"dlink":"1woqw-TPMANvkGvOkNGKeyLJ1wBDp1MM5P-7d2eIwf6s",
+						"vlink":"2PACX-1vSyG1poqfYfc50RDxJrocqX90QuvInHB3IXQWMZNwyRkcSUna2DIRmaHRhKHYQiC3W0EuXCmI9FVpCs"
+					}
+				]
 			}
 		]
 	}
+	
 }
