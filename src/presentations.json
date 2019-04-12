@@ -22,6 +22,16 @@
 						"name":"Honeysuckle - Chapter 4 : An Indian – American Woman in Space",
 						"dlink":"1VqWcn50dUm19bxJQTIo9VX9y7vr-WFIDEBrTPZ81aAk",
 						"vlink":"2PACX-1vTmhLfSSZDu4QxUjocSuZaCnV5mK0tqW7dqqS8KBA5J8AyivyKetNq99Xfqg0SNc_onn_ehL6omoolM"
+					},
+					{
+						"name":"Chapter 5 : A Different Kind Of School",
+						"dlink":"1fHzu1gtnQNdr4V2OWXymY7t757tmJHMF3ud3OMy5oac",
+						"vlink":"2PACX-1vRRGl66XLPQTFpsV9TrVn94xmpbAqSF6nQfs1dIUtHOpITimpD9ZzF3FdqqfiBNX1yrSKc3pIGPqpiS"
+					},
+					{
+						"name":"Chapter 6 : Who I Am",
+						"dlink":"1PP_18jp_SYwNySOVkeIacvXYaqiViY15H2jLu5jZE4w",
+						"vlink":"2PACX-1vT7TosXRn4W8DMBfpxw0MutS1hN6Dq1G4ZAAGrmvY3y6e1rvrENLja9oBVAwiA4h5gXXc1gNrOt-xP1"
 					}
 				]
 			},
@@ -87,6 +97,11 @@
 						"name":"Chapter 14 - Water",
 						"dlink":"1E0HZv8InOQ3IK5B5Jj0MCAFu2I1CMpCi7BtsdQH1QW8",
 						"vlink":"2PACX-1vRPMF9YOxYr0B9TOfttRvdtGT5T4vNGc1KjlFdVZW0Da60LKpvjChRDPTqSKc8rgBXD3MNWsc-ct_nx"
+					},
+					{
+						"name":"Chapter 16 - Garbage In, Garbage Out",
+						"dlink":"1VEBbQgnl_MH6b5TzYpgSstxKqZKuTYIfsAA5wddnTVY",
+						"vlink":"2PACX-1vRYxgCmEGmA-PszeJGpsZ95Gy3885Sw69eWFmBjPyIzCi3-a0g7QZk8d4ddsGk7YVM1wKxOyFFwlATL"
 					}
 					
 				]
@@ -137,6 +152,91 @@
 						"name":"Rational Numbers",
 						"dlink":"1RoU45Pq86hzvOy4wrWL9exni_wo3-UEUSIGLTIM2K4Q",
 						"vlink":"2PACX-1vRtHsnYyiL0tYHCSPFOiFU5f5bC2r28k0Iq3NQspPY1VUg-5usHLd0XWrsJTiekVJqLMOu5CDZqpTy2"
+					},
+					{
+						"name":"Exponents and Powers",
+						"dlink":"1I4zvsq064ngLVHpuokbcjqGI2nS8d93MvQ5s1I3CIyc",
+						"vlink":"2PACX-1vQ6sjsHmljqwFxA5Kez-S7Dfz9mUmUdJP8oOXgDwzvj7k_AIJU7OWo2nC09rj1mYHOC32aEQyS2B5s5"
+					}
+				]
+			},
+			{
+				"name":"Science",
+				"ppts":[
+					{
+						"name":"Chapter 9 - Soil",
+						"dlink":"1xEVkogGsxI4kvQbqE66_McuNJQDmFW1-rAAii2j4D8E",
+						"vlink":"2PACX-1vTy6mXVEqAh2Stau--nvhuLuXwHCzVm4uFQ5RK4kNBcNd3dY4x5DPdcsK2O7pWu5bAZA-yzKL2qS3Vp"
+					}
+				]
+			}
+		]
+	},
+	"Grade8":{
+		"name":"Grade 8",
+		"subjects":[
+			{
+				"name":"Mathematics",
+				"ppts":[
+					{
+						"name":"Chapter 7 - Cubes And Cube Roots",
+						"dlink":"1HyH1cAQgLeTySgipLtky_JJl8pfsrwyV1YtdXs1hxGA",
+						"vlink":"2PACX-1vSZ5GG_kiijWHyb9tC4KWr1eCD8X0naCKmFUQoR1qSgmoaliUYYQgt3XhJG-LsKJISkHqvu3e31akHm"
+					},
+					{
+						"name":"Chapter 9 – Algebraic Expressions And Identities",
+						"dlink":"1KPc1CswZS7S52gb8GlguwWF4JSFX7Z6RepP16PzDbqQ",
+						"vlink":"2PACX-1vQ8RbJLKtkERwIQqKgXRFfF2JFMMmvb_FW1pM9bt6tGSMTJdv5GJmMDpGbs9xPnVRYEBDuEC1yOJp21"
+					},
+					{
+						"name":"Chapter 12 – Exponents",
+						"dlink":"1Nqst-a2Ux1fw9SWLSWCKoh7FsTNPlFuJVEdueDyVn2s",
+						"vlink":"2PACX-1vRdVsokXr9CRaCZYmVcQGO1JK4WybKhOq5dvob0iPeGFKFVeoglbEe6GrMaMvLsJke0vb1Oz3dgiX4Z"
+					},
+					{
+						"name":"Chapter 13 – Direct And Inverse Proportions",
+						"dlink":"11QwP4MTzFXZeD-J43QP0_ADBpHtd5ss0KGN1TKLw4Oo",
+						"vlink":"2PACX-1vTogZwHqC4zWkb1f4AQJbXMMLyBS2-Nhp4iZPnqSNc5Znn8JPARP1bs6rfeKPaSEit0ieiAhqPVMLdh"
+					},
+					{
+						"name":"Chapter 14 - Factorization",
+						"dlink":"1vt8BdN6rvfpP7bivpXnhb5vpL-sSJYA9VkEPp70q4dI",
+						"vlink":"2PACX-1vQJl5B9EbQA0PSQZE3wCs2tz-UGPMINnCaqq-zIqGcvcbelD1MnG6WikR9FwEAVLr8FFduiSBRPRnkB"
+					}
+				]
+			},
+			{
+				"name":"Science",
+				"ppts":[
+					{
+						"name":"Friction",
+						"dlink":"18cx2sNfVyXMOxKWzEsbFlc4p9XmTBFXVgAhOSPxjBYU",
+						"vlink":"2PACX-1vQYp6NPFVOzi1nZKK2sutwoT8rIChgx62wE0YNA4jZEXCwwhNVlyWLqcQpzelphk1W8NPoB-5XUfa3k"
+					},
+					{
+						"name":"Chapter 11 - Force And Pressure",
+						"dlink":"1Z1w1KYjQ3a283ZX2c_dz1kT4gKbLwqwIC6BKzRQcKNo",
+						"vlink":"2PACX-1vSVzfLZhvjm3v6QOJCNQpnHwpEJEM7eaRO-29hz1Zb1oXvv0HTcLifEmr78q1KCKzLqi6MC5-O0m0bz"
+					},
+					{
+						"name":"Chapter 17 - Stars And The Solar System",
+						"dlink":"1l-TLAUBWg-7KiYFSF2fv7yaSblAULtQLOzDv51ehF08",
+						"vlink":"2PACX-1vRUCfKJNzzq2Z0AFluT88tvNOcfGXIrb0ntv3sM-q6vEOM-TmPyMSU6kyjKuKTn1wjIzcqv98nu1Tbf"
+					}
+				]
+			}
+		]
+	},
+	"Grade 9":{
+		"name":"Grade 9",
+		"subjects":[
+			{
+				"name":"Social",
+				"ppts":[
+					{
+						"name":"Chapter 4 - Agriculture",
+						"dlink":"1hjyWQnYtEtUqlbPwuL0IUeoShEtZJA425sHwjCslSQI",
+						"vlink":"2PACX-1vQbN603ynxoBjJWJxuR-8o7YvvgntVnuCJ9EpkBeOO3CJmLQK19IlgEej3SvTi_WBHoZ8MrpQGkTK9c"
 					}
 				]
 			}
@@ -152,6 +252,56 @@
 						"name":"Chemical Reactions And Equations",
 						"dlink":"1woqw-TPMANvkGvOkNGKeyLJ1wBDp1MM5P-7d2eIwf6s",
 						"vlink":"2PACX-1vSyG1poqfYfc50RDxJrocqX90QuvInHB3IXQWMZNwyRkcSUna2DIRmaHRhKHYQiC3W0EuXCmI9FVpCs"
+					},
+					{
+						"name":"Chapter 10 - Light",
+						"dlink":"1IaqaFXjBGuNHZLf6AtmZmYarwbbXuG9g7-LdtctgJiA",
+						"vlink":"2PACX-1vTtiPaGrm3yGIOZewO0sfqv5R7xTLNXjRXsShjLIIIcQ3HwUUjOHW04gtyvLxNtlIkrqUdQxfsKv60J"
+					},
+					{
+						"name":"Chapter 11 - Human Eye And The Colourful World",
+						"dlink":"1KbW_QaxXq85ApNq4NvI0YyOl4a-N2ECdqPXB6MVBGtA",
+						"vlink":"2PACX-1vTMjmWdg14O4q5CDcKgk1Sb60mUicdq2D6TxF9Sllbk5uMebnKiJLtb3-RGID-NkP5BPo8MxCNoaaml"
+					},
+					{
+						"name":"Chapter 12 - Electricity",
+						"dlink":"1Gk59LURvQF0U5cF53XQ1rL2I7qRP4bvLz9xRwIux7X4",
+						"vlink":"2PACX-1vSZ8fpAhxNRkGL5jFCylvNl60pt3ZGa9ifOGOCQHB_PfSdv9iMSbaVqp_hOZ21gIoHu4rlurQiG3dm6"
+					}
+				]
+			},
+			{
+				"name":"Social",
+				"ppts":[
+					{
+						"name":"Development",
+						"dlink":"1zr3FpjEMqm0bYM8b_Go02ZYCPWQazRMSQ6676Iz_NFE",
+						"vlink":"2PACX-1vR9znLe1VCVymB0i2l9clWcKWGy4aty_g7osB_Tm3s-fQ_5JvmUKM1yAoTeyVcvUKnyYVtogonLPBtR"
+					},
+					{
+						"name":"Money and Credit",
+						"dlink":"14GoFk42QiW5KOkyWXigQwpa9ohQrmSFzjLIgX0md1ZY",
+						"vlink":"2PACX-1vQnStSYumPp2w8ZtxU6_rgVKGjwb344UONh2g_yeh6AceHigjlD7q55IB7B2-gTpVKhuAjf3Cas13Hn"
+					},
+					{
+						"name":"Globalisation And The Indian Economy",
+						"dlink":"19BQSt2oEPy2iqBcv7SBP-gkmq6lj6gmFSQqCxJ-F-Uc",
+						"vlink":"2PACX-1vRtztatUFGbh6MjfamRRa57CCZLCiG9HUeHGMP6qauhuKLdQM21qZ7Agl7f5nixEdoArv2RfkznkMsd"
+					},
+					{
+						"name":"Consumer Rights",
+						"dlink":"1e0PnnuOHH6EQ8aPkFs1MhsBSID2ycmtAsmH3q53rhVw",
+						"vlink":"2PACX-1vRCEYeCYeJhEa9TYH46YEfo1JXOq88cNgbQtSupnAuIPx7hRw8EFOqu3CrrqBv-pizaBbf4IizYsjvh"
+					},
+					{
+						"name":"Political Parties",
+						"dlink":"1t_9oppwJiUe3nKwkQopAMAvnliLVsfAvrhyP3cAQR2g",
+						"vlink":"2PACX-1vTFaWz-Ni3Ij6NsXImAOTXaTwzrUBBGAiXlOqpxjtVj6mbNLqHhEIuNqUd93eIgDL3479ZRwVeveKkA"
+					},
+					{
+						"name":"Gender And Politics",
+						"dlink":"1nBEyfmV0pHWYvkXWzdcqlqwIKZ0nSCZiuagrcwj1Jl8",
+						"vlink":"2PACX-1vRkdwVUqTjCCFW_UbiJLO-LMHDuKHw_BTEw6SqKuNxH5yiYSdFm8frrhV2oBda-LqowvSdhILT05XV8"
 					}
 				]
 			}
