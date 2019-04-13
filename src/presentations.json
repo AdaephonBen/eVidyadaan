@@ -81,6 +81,11 @@
 				"name":"Science",
 				"ppts":[
 					{
+						"name":"Chapter 14 - Water",
+						"dlink":"1E0HZv8InOQ3IK5B5Jj0MCAFu2I1CMpCi7BtsdQH1QW8",
+						"vlink":"2PACX-1vRPMF9YOxYr0B9TOfttRvdtGT5T4vNGc1KjlFdVZW0Da60LKpvjChRDPTqSKc8rgBXD3MNWsc-ct_nx"
+					},
+					{
 						"name":"Chapter 13 - Fun with Magnets",
 						"dlink":"1ZfFzv0vYUkwfj3vnTqY2kCxH_6AhHz3tpPgFYRbEiwk",
 						"vlink":"2PACX-1vQ2EsakQsQWmjQFha3lO4bPS11Hdvtd0MQSDmO5Kk8utEC90eF_d1R6XCqJn5reI-OvXjuDJ5TpERJm"
@@ -212,6 +217,41 @@
 				"name":"Mathematics",
 				"ppts":[
 					{
+						"name":"Integers",
+						"dlink":"1uXZoCT7EjAaULxGIS32RyM8M2TPuhXFHu9Tb70mDdLs",
+						"vlink":"2PACX-1vTSvJhcgVV_5Uv0zLKiecLW1HQMgjQmCxfkNcK8a3n8vgP8U-HYTAp6n2hA6vSAItK7gXUcTMTdZCgs"
+					},
+					{
+						"name":"Fraction and Decimals",
+						"dlink":"1P-o6oQ4jeh3LNZQRfqyt75w4V8cAN55y3z9NtmLZ9YY",
+						"vlink":"2PACX-1vTdSEnZ8xpE_nsY0sWNSIaDkpXr1GN7qOs75HiaqdKPyEaneziUr0jvlmbeMMd68u7btbP9fgA7jcGG"
+					},
+					{
+						"name":"Data Handling",
+						"dlink":"1EbRpnggf6x0Y6PLz3uGPgSK63hAazbLLHY_FNSRCoVc",
+						"vlink":"2PACX-1vThLcGGRZSMYGgw3NAP3pDQ4T_dhvG6Uxx4IjAzgSaF2UuFBFz_A_40PoSljSsTF7FKGYnDt8rUL9tB"
+					},
+					{
+						"name":"Simple Equations",
+						"dlink":"1Ago7lTK8YCwnuV0NGxWHj5_GogJJKWsoPmC2StP8ja8",
+						"vlink":"2PACX-1vRwiZY1HfB5PeLR_LbBsQxP4cd5M0Da9B8oOTxBQXTvkhm2tEv3Bh4-01T6QVNUuXeXLVDdtX_8kVE7"
+					},
+					{
+						"name":"Lines And Angles",
+						"dlink":"1CdcKvBDIWS6p178RZkgPyaZM4Npb029pasvzgx4p4As",
+						"vlink":"2PACX-1vQlHgd8fxd2ljNY_cXTZjw5-ztIkX4XWa9wO3pIrK5aTJkbo1rQmo5A1_oIBtVuN3U_-PHUw0ddrmEu"
+					},
+					{
+						"name":"The Triangle and its Properties",
+						"dlink":"1pns8U8YH3ddurWIEvarQ6iXAmP37mIitPiBEEYyPksw",
+						"vlink":"2PACX-1vQWVPtziizCalfcy-c5U9yZ_RmfrCbEIwGLGuGc_3OaMxCCIPpHxXtoTuhyyq54vl8E9pNvNaSlasEp"
+					},
+					{
+						"name":"Congruence Of Triangles",
+						"dlink":"11PD2tKSl6i-yTc1kk4ga_F3pxPGcV-rzB3-NVUvf75Q",
+						"vlink":"2PACX-1vSdI6EtedhCxodVaQ5W7uvZnT7gOz638KyMsxzE3zXwxIoF7KhLBL13ad_Ujm_dw_14LBTWJYAOF_RC"
+					},
+					{
 						"name":"Comapring Quantites",
 						"dlink":"16ZEy12NY7u-K0WMj0MhpQeLFR7RP8E5p0F6aZqZ_Dh8",
 						"vlink":"2PACX-1vRc9mS9ZwqVUOuT2s3iWtb4TMZNda7hNlzj6shF23tOrvZzaKEcSj2wygofO77uePfOYMGtVSjrTkqf"
@@ -225,12 +265,47 @@
 						"name":"Exponents and Powers",
 						"dlink":"1I4zvsq064ngLVHpuokbcjqGI2nS8d93MvQ5s1I3CIyc",
 						"vlink":"2PACX-1vQ6sjsHmljqwFxA5Kez-S7Dfz9mUmUdJP8oOXgDwzvj7k_AIJU7OWo2nC09rj1mYHOC32aEQyS2B5s5"
+					},
+					{
+						"name":"Practical Geometry",
+						"dlink":"1wlP4KYQ6TowfVC96fX4Blevps2MyTPWX1YIqVkClIIs",
+						"vlink":"2PACX-1vTpIbjcSerpRrchSh6S7OmdNWD4wCWaK5jR7ci6WSpl0vSRqJtMeZK_rcIvFepVrZzfWQsDsuYXqo-p"
+					},
+					{
+						"name":" Perimeter And Area",
+						"dlink":"1ZEgGI8Fba0jCv7kw_aGzruL-m352v8oOBARN-72a-RE",
+						"vlink":"2PACX-1vTmSjALJCpRqovdxJWF_R5GZJvZkq_wfcZxRHYuWHVTJHvOzXV8FdIURt3NfzgGgxod14xcr-_2uj4F"
+					},
+					{
+						"name":"Algebraic Expression",
+						"dlink":"13KZOg8vEaPlYWp7G6TYeKULkYYtAX1kb83GqpJ-2xmU",
+						"vlink":"2PACX-1vSGbiBcKHTRrF5hM3Cmaf8GbZyUchlBA2IV1qkXdFiZIQZ3JBii_3kTJzWqNcdIkhpiOaTFVIRycYcp"
+					},
+					{
+						"name":"Symmetry",
+						"dlink":"12h-xgZ_GbOYGjLrSuYpyPhZ5zAtc8KOzlpAOq2wq8FE",
+						"vlink":"2PACX-1vShDGx_A00M48S7GD4ldmWOkcPgshvkq3tSesDAgO0X7GyLuziN9nBmxKYrIBCONp5jGR9uC6VwFUot"
+					},
+					{
+						"name":"Visualising Solid Shapes",
+						"dlink":"1D8x_DGAqiAIicgy_eciBb7EGDuxGkPkUjUJ_A2tniNE",
+						"vlink":"2PACX-1vSwoBC3jmuIVqeqnXhunPlsz3DpIKfvr71KHGBzvvPWCnI_1Peq_Nq65QCZJ5e2ocOBZxsWipElCtdU"
 					}
 				]
 			},
 			{
 				"name":"Science",
 				"ppts":[
+					{
+						"name":"Light",
+						"dlink":"1Od_4Ul--1XTBY1MoLpVT3gdglfy7kwtzbggQ3e37B2c",
+						"vlink":"2PACX-1vTJOmjO3Ulii4j3gz8lomgZNxlZVig-Uh5eodTxQk8BSG9l7CNxlmoaXtmuVBGny0unAX1IedqBEFGG"
+					},
+					{
+						"name":"Water: A Precious Resource",
+						"dlink":"1WegtKmWzr-1odBR1GpkpLblsZWIEpgGz0OHYiuVif-Q",
+						"vlink":"2PACX-1vRKxDH8acbKVCvfSnYWlAT3VorRQDQY996fdZUf-1Mcx5vZ4RUEH7eiJRy-n3RePbpt2baO1xS8kaZG"
+					},
 					{
 						"name":"Chapter 9 - Soil",
 						"dlink":"1xEVkogGsxI4kvQbqE66_McuNJQDmFW1-rAAii2j4D8E",
@@ -357,6 +432,26 @@
 				"name":"Mathematics",
 				"ppts":[
 					{
+						"name":"Chapter 2 – Linear Equation with one variable",
+						"dlink":"1CXDEF1vDRmyaQKmw11m96OZOkFrSDGxIwv955HQ139o",
+						"vlink":"2PACX-1vTctO7207sy_AxOXdtWKu-Eu8aw_tpAXZy1chsU7y3HWe-K3ngm2Q-l2d9LLkQlEV5lp3n2qu_hTIdd"
+					},
+					{
+						"name":"Chapter 3 – Understanding Quadrilaterals",
+						"dlink":"1QSh639SQK27RN8H3VaaC3vIhLEIYuMHjQ0l5G08vhqY",
+						"vlink":"2PACX-1vRXVF9EZG7vxay64y3lFgy-6t07vbIbb_gZkdgoEhXpz3uDgCYtG4Pu7mzTQWCpSPTuYl6NM0-uaGq3"
+					},
+					{
+						"name":"Chapter 5 – Data Handling",
+						"dlink":"1DNWbj8mnDBBzQTsz80p4KhZQLOxpvl5TiNJ67jTuU7w",
+						"vlink":"2PACX-1vRNR0i_mBfPEjzxVV49RIkveR3WgyBFFgItWWTxhkZPDnDZL2U9zPHDzUKaKt1RYJ4m8WcSxhhLdp5Z"
+					},
+					{
+						"name":"Chapter 6 – Squares And Square Roots",
+						"dlink":"1Trhh878g0mNFNLTqrRL7jQSnD5xTkjbsuFTn3dgM7wU",
+						"vlink":"2PACX-1vQIW-daMReNWKBZerHYojf9Tov6k9kUYs0WMJ3qeynHcJJqIfGsXbyMqN6VE5_dlsIFva9GVr1KrKBR"
+					},
+					{
 						"name":"Chapter 7 - Cubes And Cube Roots",
 						"dlink":"1HyH1cAQgLeTySgipLtky_JJl8pfsrwyV1YtdXs1hxGA",
 						"vlink":"2PACX-1vSZ5GG_kiijWHyb9tC4KWr1eCD8X0naCKmFUQoR1qSgmoaliUYYQgt3XhJG-LsKJISkHqvu3e31akHm"
@@ -365,6 +460,16 @@
 						"name":"Chapter 9 – Algebraic Expressions And Identities",
 						"dlink":"1KPc1CswZS7S52gb8GlguwWF4JSFX7Z6RepP16PzDbqQ",
 						"vlink":"2PACX-1vQ8RbJLKtkERwIQqKgXRFfF2JFMMmvb_FW1pM9bt6tGSMTJdv5GJmMDpGbs9xPnVRYEBDuEC1yOJp21"
+					},
+					{
+						"name":"Chapter 10 – Visualising Solid Shapes",
+						"dlink":"1ZIgClTX0O33yL5-tEYAxzBEX74-3OZt8j5fZkXEBSh8",
+						"vlink":"2PACX-1vTALNUlsjlZFKXL7ehB7T_jnl62HHPhWVhti9k_T7S8hey5J8NUNl6AEq5Nre4CQgjqsFgjfpW2hiLb"
+					},
+					{
+						"name":"Chapter 11 – Mensuration",
+						"dlink":"1Sz8rdq7037Ujgu87R7ei-5iO0mXhsn8a27QH9OSg_8Q",
+						"vlink":"2PACX-1vQ6Bh2-qkTktsCCkfZnj7GAjHueR5ws4GHdOdTyeGbPsOHulD2V7MeZ8WG07xtZBUFBy_nH0MiKZFvx"
 					},
 					{
 						"name":"Chapter 12 – Exponents",
@@ -496,10 +601,36 @@
 			{
 				"name":"Social",
 				"ppts":[
+					
+					{
+						"name":"Chapter 1 - Story Of Village Palampur",
+						"dlink":"1nxuCtcSEl27xWMuaqxpUFxHc8gB4zh0jiuly2o1y_Is",
+						"vlink":"2PACX-1vT85xrlR3TqCMYDtae6QMf8qtIFhWzhG1zKnZ8B7y5yUKZbT9AHUmqVLSQ4g4OXi5ShIB1vfVsh_2ti"
+					},
+					{
+						"name":"Chapter 2 - People As Resource",
+						"dlink":"1RoZyIwx7AJvsmzNpl8PR8El-nsV3ECdN4WKaY_sf30o",
+						"vlink":"2PACX-1vTPUhY7UgyqgFXemZiyjUZMEI_7PVuWLscHg243F3iQR37AOwzG4HlV6qF_SGHjpq4P-3GTJiMnKtv3"
+					},
+					{
+						"name":"Chapter 3 - Poverty As A Challenge",
+						"dlink":"1DoBBpg3guBrRwHQHEr8x9SSPqn0cU7NrWl3tHs4SI-A",
+						"vlink":"2PACX-1vTCwnOso-gU6rIGsKx--JYwGIsvDpPIQZGOOSbaz-Saj9fgXy8clJrtw3nna-OtP-84rtsv8ClG06xt"
+					},
 					{
 						"name":"Chapter 4 - Agriculture",
 						"dlink":"1hjyWQnYtEtUqlbPwuL0IUeoShEtZJA425sHwjCslSQI",
 						"vlink":"2PACX-1vQbN603ynxoBjJWJxuR-8o7YvvgntVnuCJ9EpkBeOO3CJmLQK19IlgEej3SvTi_WBHoZ8MrpQGkTK9c"
+					}		
+				]
+			},
+			{
+				"name":"Science",
+				"ppts":[
+					{
+						"name":"Improvement In Food Resources",
+						"dlink":"17dZviW8U-27Mcv1h1tiiZRUK2WL9HtDad4wBnCZBAUg",
+						"vlink":"2PACX-1vS5P4C9VgK21Z-dFSF1kOPbsQvm-kB3l6b4fMuGjQET6DikXva_-p319Q0CnQTTWb8wvnGuuKitiskY"
 					}
 				]
 			},
@@ -585,6 +716,56 @@
 						"name":"Chapter 15 : Probability",
 						"dlink":"1_s__vwx8RQZUj3T39oXKA6d_ChHcDgHQhxqByqOG298",
 						"vlink":"2PACX-1vTBQa8X_Bp4po4NLB3hhnTAbwwYCNqgcX-Sk98XU4qy21QctdB1ES0OkbW6LwM3Hu81opBC8VHbPWxn"
+					}
+				]
+			},
+			{
+				"name":"Health and Physical Education",
+				"ppts":[
+					{
+						"name":"Health and Diseases",
+						"dlink":"1zbrLEmeRG0bTcimoGpnq2FrpFfqynU7RSZqeY_Jzs20",
+						"vlink":"2PACX-1vQ5ssfnlFdW9DOlCjgR25V9BOeZJjEVYIHfRFlZchxb1vyIjFtspFOzVhwu0fxJmWRV9a0yLCoJxqhQ"
+					},
+					{
+						"name":"HIV and AIDS",
+						"dlink":"1emFBMwFRZfpeAgA8zLWX1HTlisjidkyu0mOp5u8zPF4",
+						"vlink":"2PACX-1vSTTtCvzoXNgmLTB3ZTDIYHUfXnM7o8nKZpf3-DEFoZZi-EHiUBKXLmds5Hd9rewel9Q_fzRXdzLx5P"
+					},
+					{
+						"name":"Physical Education",
+						"dlink":"1QxzNPyPPyBHzJRtjPaQmqZoYLRh7YCYAQ_dbeRjAuTQ",
+						"vlink":"2PACX-1vTuAXCpD-s17xsKmLKQQluT5w7b5cCdHjQkMvEKi1SeQjD1rSFvQWb22hsvq2vUdGhUTx6zycTDEtYk"
+					},
+					{
+						"name":"Physical Fitness",
+						"dlink":"1GqXnPXrVOufbqtuH3AKDSYB8aBhcGCFqy6zXTaguym4",
+						"vlink":"2PACX-1vQaDRy7GPU_i8sZl8MeT_iErYDnQodQ2dLxLU89zxOHwxXhko7gaqImPlnYQ-WxgkXXLXBdnNxirJOU"
+					},
+					{
+						"name":"Sports Training",
+						"dlink":"1ryBEwM9A-mNRW677FmZnZRWsWNg0NwxQiIhcl84A6GE",
+						"vlink":"2PACX-1vSPCDGUsm1q0bhhsi4tdUzCww00heBYCPj4Cyc82wvcQyht4m1dmgQ-zHenhtDJeP_DV3tr_MXR8Dyj"
+					},
+					{
+						"name":"Ethics in Sports",
+						"dlink":"19jockBfKYrazTgd3Dt-ThTDiteZCoAAelkrFENoBpds",
+						"vlink":"2PACX-1vQTx4PnuGzDaVRcQsTcsCRz5XtZE0uKb_FBARJvsCa-Roww72OYnwJC3KwQqv5lDkBAa00qc1n9pDns"
+					},
+					{
+						"name":"Waste Management",
+						"dlink":"1PDqKh1D3kWSL2u1WDYp8u_oDmPIT2egwTD6S82sP36s",
+						"vlink":"2PACX-1vQwUpFGa_kLvspjF3XGx_da4LjXfa2gfQOxBGg9xh_Aa5KT-ErXRvx7walHc-XfyB1Jh-1fxPjLAWsA"
+					},
+					{
+						"name":"First Aid and Safety",
+						"dlink":"1Nui36lF2qovv8-_pnH-qLGOsOP0ywg14ZLri2qyd3Ec",
+						"vlink":"2PACX-1vTM7U3Ee5fluw4xutEEyT0WSiOmt6egsFxf8R6qShFaOvJieE2n-Zskc51H9k0Ly5sKcNHDUvEbwqg9"
+					},
+					{
+						"name":"Social Health",
+						"dlink":"1j1YVNX71-5O6xFgVUN_ym0PLtRlUP0_BkVV8keobVaw",
+						"vlink":"2PACX-1vQ1SBnTCRlah5VpPrfTdMNJvA7egeKP2UpH1flEQY-_jjTYQ9mi15F_AnQSGld9JJWaGFiwDxfx-Gbs"
 					}
 				]
 			}

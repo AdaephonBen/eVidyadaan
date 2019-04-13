@@ -33,7 +33,7 @@
   <br />
 </div>
   <footer class="page-footer">
-    Site developed for <a href="http://nss.iith.ac.in" class="footer-link">NSS, IIT Hyderabad</a> by <a href="https://github.com/adaephonben" class="footer-link">AdaephonBen</a>
+    Developed for <a href="http://nss.iith.ac.in" class="footer-link">NSS, IIT Hyderabad</a> by <a href="https://github.com/adaephonben" class="footer-link">AdaephonBen</a>
   </footer>
   </div>
 
