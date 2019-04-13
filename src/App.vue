@@ -22,7 +22,7 @@
     </b-list-group>
   </div>
   <div v-if="iframesrc != null" id="lol" class="resp-container">
-    <iframe class="resp-iframe" :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe class="resp-iframe" :src="'https://docs.google.com/presentation/d/e/'+iframesrc+'/embed?start=false&loop=false&delayms=3000'" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
   </div>
   <br />
   <div v-if="iframesrc != null" class="download">
@@ -78,6 +78,8 @@ export default {
     position: relative;
     overflow: hidden;
     padding-top: 58.515625%;
+    min-height: 100px;
+    background:#fff url("Spinner-1s-200px.gif") no-repeat 50% top;
 }
 .resp-iframe {
     position: absolute;
