@@ -1,12 +1,4 @@
 {
-	"Grade1":{
-		"name":"Grade 1",
-		"subjects":[
-			{
-
-			}
-		]
-	},
 	"Grade6":{
 		"name":"Grade 6",
 		"subjects":[
@@ -300,6 +292,61 @@
 						"vlink":"2PACX-1vQ47UAYZzah4-esZTTv_qJh439tQCD81oYpffm-qjG4e_0V1ScVFYLSd7qOk2jqomig032FmXOfv_j9"
 					}
 				]
+			},
+			{
+				"name":"Social Studies",
+				"ppts":[
+					{
+						"name":"Chapter 1 : Equality in Indian Democracy",
+						"dlink":"1H2PwG2GZ-Iy_uaqnKmnQxhMQMCSx0HZJLgircbgEjF4",
+						"vlink":"2PACX-1vQMAf1csH1mGj79w0ZOq7Jf6pTHftHV5gP4jgeWJBIOQ_NltZtFW_5RBxwrt-eqP8tBUGtiXbhHYMCv"
+					},
+					{
+						"name":"Chapter 2 : Role of Government in Health",
+						"dlink":"1lfNrL6EWQgKDX6YQbfuH4TdWBNhB64nyMGi5NhdHNU4",
+						"vlink":"2PACX-1vSlX0HP7xkAEY0l-1Qrw2m0rgVu77jluhJkkvHdOp8B-I6jvautdunzS6d8dudUJO4Dt-0641eo6Tkx"
+					},
+					{
+						"name":"Chapter 3 : How the Stuff Government Works",
+						"dlink":"15i5bDW4L6vpm9HRFX14rM8qmOlfCKRW4bWhlizo9oqM",
+						"vlink":"2PACX-1vQBwxSNBGDVlMXRGo1_HV0G41-LGCrZnlnCT_bWOREfDsOsWrtGTJSD4QToayc3wQ4SOz1i6G_Ln5yh"
+					},
+					{
+						"name":"Chapter 4 : Growing up as Boys and Girls",
+						"dlink":"1eNUUeqlO-WNoEQdI2Tjxo1eKTqIUTS0lu8hFVCPnQNc",
+						"vlink":"2PACX-1vTu15eFF0DTkwSkDlJmVIZCxcUIEefDWvuxZItyd8_jZx989U9wiYsK28SGCDlx_jD40oygFAtOqEvd"
+					},
+					{
+						"name":"Chapter 5 : Women change the World",
+						"dlink":"1uotQrtVoVIcBkxJq37DVzsZsozvVUrHstKM42JsP0BM",
+						"vlink":"2PACX-1vRZWaIQSsjzJbl4YcNHZlIkrKcFdWurxTxYHkWiIjMrDLqtKdP5N1uwMWqn4jwfvez1WhVTntqinzHB"
+					},
+					{
+						"name":"Chapter 6 : Understanding Media",
+						"dlink":"1BCOR7oKPPFfBdiFfW6hZchMIAcmBQTS4RgOVY_LxLcU",
+						"vlink":"2PACX-1vRea4-22mnknHcblQ0EofUV1QFoP0CKBSO225ig19ISQ1oC7ifF1X4M_DBR4D1oEkACkEvfGpeEzucP"
+					},
+					{
+						"name":"Chapter 7 : Understanding Advertising",
+						"dlink":"1UZop0Xhm9PeMLGnzyE_zPmKElbyknXATPkzbDYvNIxs",
+						"vlink":"2PACX-1vQ8OY8O83WrRldJNZrWnVktTtoD1doqD975FXp1XZ-pm2POvz6AXc25wQr5_Kuq21pGMwQqnuF6IJnj"
+					},
+					{
+						"name":"Chapter 8 : Markets Around Us",
+						"dlink":"1cp6vpLa4-ZwmRRo1G0ZY_P6TCsM6lnXi9vrvSocd1E4",
+						"vlink":"2PACX-1vT-k94uzsaOZUEX-2OtN7koxVxSoIBIAf98c39esqklHadTMbfQc1RKKPK7_s-lj3Y8jm8S22H1-BO0"
+					},
+					{
+						"name":"Chapter 9 : A Shirt in the Market",
+						"dlink":"1rr_vijgKIZUti00Ob2fA_sGNNU9JXESZsCSfmlQ3JDc",
+						"vlink":"2PACX-1vS-nVi38YaFG4pMLPg46zEZdPCMIxmL6O8kBleYrf34K3tMWKpsQJJAcW8bE9wtePBKP32sLYpA_a2Q"
+					},
+					{
+						"name":"Chapter 10 : Struggles for Equality",
+						"dlink":"1bL67FmgG8XpdPgkM2AcsaWnY3kozggvkq9FUk8LnrBM",
+						"vlink":"2PACX-1vQaynaWlynImUCY99pNadoa_wL1yRwrLtc3wRSM-zTAgwmu-3MzhGBwS1_rc3tAwwd2vFct51RnpmAs"
+					}
+				]
 			}
 		]
 	},
@@ -339,6 +386,31 @@
 			{
 				"name":"Science",
 				"ppts":[
+					{
+						"name":"Chapter 1 : Crop Production and Management",
+						"dlink":"1wTIYD_UOcUw4JXZmVOE7mZDkwp39VvPTEygF4yHld18",
+						"vlink":"2PACX-1vR7TiUcj4KpnZ3o6U3SbGWgxrkRkGx6aPZAZ3zH1Q81jPskkmrEJ9RzD2-ekNGBu43CU9z-YDUhMh7A"
+					},
+					{
+						"name":"Chapter 2 : Micro-organisms: Friend and Foe",
+						"dlink":"1VxB3ipONf9t98183vYmzb8d3u3MkrwtjXscQLOS_6Ms",
+						"vlink":"2PACX-1vQON3CnIae-L2yQUS9aOmN2_ezdda5DncW88Tpc24m_g-NuUguzw-1veXxza6VpzfVoQ0yeELYzntaB"
+					},
+					{
+						"name":"Chapter 3 : Synthetic Fibers and Plastics",
+						"dlink":"1p8l9ILf8Z5NX40957iN3ZCeCKEcvLhuiPCcacBxI-mk",
+						"vlink":"2PACX-1vQYIl5gFbrFmoueVpUf_nWden4iCmiP3C7cjVE8gadvUiW8IE_KPQ24q8OK1D0Aq5MfpY94D61rrZaS"
+					},
+					{
+						"name":"Chapter 4 : Materials: Metals and Non-Metals",
+						"dlink":"12YzrLWRzzD0f1IRIwKS7rTpdR8UTJiQ7eTtfazCKf7s",
+						"vlink":"2PACX-1vS1IQc8wNgALt1ek_FY_WB0gKVMFnwuRCbpTJz3YP7J_x21Zwdee2dO9MzlQa8k42-TlLP57kqu0wSJ"
+					},
+					{
+						"name":"Chapter 5 : Coal and Petroleum",
+						"dlink":"1wpekcjGUCSxcITSWknDko-Jy211r7PJAFcOaq1fSTXM",
+						"vlink":"2PACX-1vQD-UD20h_2299wr-ewdC2MQ5E4tiKEfLkOpMDo8doTO3ptHZvVBtJhoN5-kkLD0DFy9PcB5MYbhTQo"
+					},
 					{
 						"name":"Friction",
 						"dlink":"18cx2sNfVyXMOxKWzEsbFlc4p9XmTBFXVgAhOSPxjBYU",
@@ -430,6 +502,91 @@
 						"vlink":"2PACX-1vQbN603ynxoBjJWJxuR-8o7YvvgntVnuCJ9EpkBeOO3CJmLQK19IlgEej3SvTi_WBHoZ8MrpQGkTK9c"
 					}
 				]
+			},
+			{
+				"name":"English",
+				"ppts":[
+					{
+						"name":"Road not Taken",
+						"dlink":"1LDdvE2_t31PV79pGO_3tO9nb4Z93xkLQOm2rP4IVgm0",
+						"vlink":"2PACX-1vSK5PvH5tf-YtIEzkRwjyQpP87mVOZhU1iMFh3NqeRAIAppV1cG70djFyQzYcrHJ_HoL_xUTxsY7uZh"
+					},
+					{
+						"name":"Rain on the Roof",
+						"dlink":"1OKzmBdtdqrszW6K9-Auga-RmlclgwJcsGAAxCVd5n1o",
+						"vlink":"2PACX-1vR0Ymbe9ox32zRWDuEyqAYb054u12ywTpLATjzCvN8XZGqDoZPwWiM2_jahrJx0-LUAcNzf5Sp5K_VM"
+					},
+					{
+						"name":"No Men are Foreign",
+						"dlink":"1gqTvMZTTzSsCq6vuPNVOkS-2kLxHpJF08BSZCwZGAcY",
+						"vlink":"2PACX-1vR6hpkgedIr4nbR_i788CIyYpClyBQDcw57V1wFnZC9GA3QrWLFvHkzJaYtVHb-0hP6cMKT5FYgp2uA"
+					},
+					{
+						"name":"A Slumber did my Spirit Seal",
+						"dlink":"1-0qfLua4cKxBHYgI7FW6mYTy32vengUTgCWK4Y3wMbQ",
+						"vlink":"2PACX-1vRLYYZ4gI3beiVuzGdqdC_L6-y1snQRRCz1klg7wMCZGPJAZ56_8jrzCDU8Zri6_MLlY4vI87Onn6RC"
+					},
+					{
+						"name":"Fear no More",
+						"dlink":"1IFA_GZ7pZsRpEDbB0eX8t2yR_pnOuipsILrJSidAmXM",
+						"vlink":"2PACX-1vT3YTEnlooD7ZMupsxyajAn41w7fjG51HFCvs8g0-05fbPMxO-daX9Dbr_PodicL9Ez8SccNi4Ph3Hm"
+					}
+				]
+			},
+			{
+				"name":"Mathematics",
+				"ppts":[
+					{
+						"name":"Chapter 2 : Polynomials",
+						"dlink":"1JncIRK7B2DItXb2T-ng6ZAd-E1jFYvszTwD904y5bOY",
+						"vlink":"2PACX-1vQQ1xyrfR3fl9t5B2RbDqQxS9cEnNvw_d6_a7ehr_586kLSfzgPX1z7s-5JslSzdV8xKCgoxZ2ntNCl"
+					},
+					{
+						"name":"Chapter 3 : Coordinate Geometry",
+						"dlink":"1gjl9qQICVeDQgA9gnntGYrCc7Xzw6F27LJQIaMILUXo",
+						"vlink":"2PACX-1vRONNV-qRJZveYjoJvBwaM6eRjkQvNGE2E35U7Qxi2V2tmJ6-fXPL6USf3sAsU_WnmhOaeNm9pNsJAK"
+					},
+					{
+						"name":"Chapter 4 : Linear Equations in Two Variables",
+						"dlink":"1pMpbq0yyF5KRM2KOzGCJrgfaarg8vP50qvWQ0eW8EM4",
+						"vlink":"2PACX-1vQDBO88VqK13drT4wSX3GzeAtOxD261zXTg1RkRiVBMtzRkMIQ6w29RbY200N9oZRseI6RCFj8i8u56"
+					},
+					{
+						"name":"Chapter 5 : Introduction to Euclid’s Geometry",
+						"dlink":"1dLy-H6VPYOQsqU8Ay6feFRTof5MWrXWiMcyENmQJFHk",
+						"vlink":"2PACX-1vTkFSnwXRGbUiwWVoyVFaZQAbn7lDCe4sNe02i1yFqXn60orqXagWBkk7Wn0zrkO5-jWXUF_k2JacRc"
+					},
+					{
+						"name":"Chapter 7 : Triangles",
+						"dlink":"1gCDbosxPWQWX3bRQ-CCTl2p5T76-8dDeFlGbhchO3QU",
+						"vlink":"2PACX-1vTkOftnGd6XxVBkXwzravvnRCrAntcRGrjCyxahuhRZSp3sGR7G1uQ88EXtMXeos3YUgc6Xe-nQ7KxY"
+					},
+					{
+						"name":"Chapter 8 : Quadrilaterals",
+						"dlink":"1_29c7FoWOTvGjY1M_M9ELpkXPqFapXjvpg1tKeYUuPM",
+						"vlink":"2PACX-1vThw1eWZNnZeqeiD86ga1P7N-p1nsDu5Um0rSmxB5q6_8DUEyVA2GYKfJATxNOcT0ufKbjDMGdihM-8"
+					},
+					{
+						"name":"Chapter 12 : Heron's Formula",
+						"dlink":"1UU6BXFygI-InrQjhyLgBgjp3puEW6S-vgknnuG6UR2A",
+						"vlink":"2PACX-1vTRbKvWzzfjfuc3FMeYZ5aAVia2fqIOsd2ReHekVTrR49T74aDK15ytEQ-Zr5w-9Dq_YDL8jl9a6gN9"
+					},
+					{
+						"name":"Chapter 13 : Surface Areas and Volumes",
+						"dlink":"1X34WGQZpR5UY917uDPQKQOCqaclb702nVQAfHwy2KvU",
+						"vlink":"2PACX-1vSMDV53hq-0DelxZ19amXS0A2L1X7JVD5H4LcOfq7xCJ9mQIPTNk9J89Or1gIJoM9UijMl1AHoVmxBP"
+					},
+					{
+						"name":"Chapter 14 : Statistics",
+						"dlink":"1RZig6w3SZukLMzKV2rNwAT32CLd7m39slkGvSxDICQw",
+						"vlink":"2PACX-1vRxZNAiIMRkVl4KXCxq1iLU8gK9M7G4JQ5XcKdVwH3xCAcHwswid3373ww36kxBQK9aOEipaJOmBVpO"
+					},
+					{
+						"name":"Chapter 15 : Probability",
+						"dlink":"1_s__vwx8RQZUj3T39oXKA6d_ChHcDgHQhxqByqOG298",
+						"vlink":"2PACX-1vTBQa8X_Bp4po4NLB3hhnTAbwwYCNqgcX-Sk98XU4qy21QctdB1ES0OkbW6LwM3Hu81opBC8VHbPWxn"
+					}
+				]
 			}
 		]
 	},
@@ -502,7 +659,62 @@
 				]
 			},
 			{
-				"name":"Social",
+				"name":"Mathematics",
+				"ppts":[
+					{
+						"name":"Chapter 1 : Real Numbers",
+						"dlink":"19Ir8OTRm_-DNtKEnT_4_IhgfVpVSl6dmmgqKaBDINbU",
+						"vlink":"2PACX-1vRF2Eof1FoAJ3x7ntDCHraxPvEA4eA-gXFMf5HQZbkKYZACUZiTkqPNk33zot7Pe1WvNe8EE44rdqJx"
+					},
+					{
+						"name":"Chapter 2 : Polynomials",
+						"dlink":"1VKxeKhl8EaBgRKpkWbz0BRaPE5n3IluaL1Qts_Vxu7s",
+						"vlink":"2PACX-1vT05nm1eTVgIsupO4jAgYo5APlevMIt2tr--eZcEbYXLTBP6rmTTZ9RlfhFROl9npfIUk-UyoXs46Gg"
+					},
+					{
+						"name":"Chapter 3 : Pairs of Linear Equations in Two Variables",
+						"dlink":"1mzu3rXIQfQoKKP7NmHmZT1JsAwbQVEZTBwDeMWNsn_Y",
+						"vlink":"2PACX-1vSzSe6_dcc79kVhGHBzpKWpUuieZ7Ze0nX388HIlRcoq_Kd7inOJTzuc1RWwnnvmbRD4yPA7BO-btJN"
+					},
+					{
+						"name":"Chapter 4 : Quadratic Equations",
+						"dlink":"133WBBPyhayzsR6F6yR6j07q8fCTwXK0GtlTGzhXh6XM",
+						"vlink":"2PACX-1vSilCF8lC2-DCeGHjW30TzgksbP8Y9fc3ZH9FSk5ed5p4-szV2l6gr5hNoEOIImSdmDcsR1mQ8tfLBt"
+					},
+					{
+						"name":"Chapter 5 : Arithmetic Progressions",
+						"dlink":"1MNSB1Pya2XEZGibkBM8Y2G2LF70FpeD5CvnYz2QG7C4",
+						"vlink":"2PACX-1vS7MbXWY9_HFSCK9HrD0kadYbqA8Qw4zqsofA6arSPoSEamOihzsKzT-Bm1UEVJXZC3KJJ1QQocgawS"
+					},
+					{
+						"name":"Chapter 7 : Coordinate Geometry",
+						"dlink":"1nEFyYkRlMBYd7yJH0SPyRRdBfc49oE3cnDf18yJFd2M",
+						"vlink":"2PACX-1vTNgzhCMiOu6jwyvX8f8KZ7vifTGcmfZNnek0nq9llc1azrO1QoICb3tXQ-6wH_g-AaOvobsq5qTdsc"
+					},
+					{
+						"name":"Chapter 8 : Introduction to Trigonometry",
+						"dlink":"1GvN_g8RVU4fc7HTXhbpg78j7XwqZTO-3yvxcqmPSDdI",
+						"vlink":"2PACX-1vTxsYRUcE96f4Hjt6TLXcRRoHQ2Fmd8lQUC_oyioPiFaDcKDzxkdabnv8zzm4_VCz-yTip2vLYeNz3Y"
+					},
+					{
+						"name":"Chapter 9 : Some Applications of Trigonometry",
+						"dlink":"1WZrDo5-GGEdzxaZ38uN4MTABANKXp5u7LA5pyy8XhnE",
+						"vlink":"2PACX-1vT_fJ4CpGZSTJjK21AgOgSyujvKY5HV9ov8jN-g6JNm2SEZzWKkU18gHqXrGYJghI7toiY_OJcPIB1F"
+					},
+					{
+						"name":"Chapter 14 : Some Applications of Trigonometry",
+						"dlink":"1RC86Si9J7ppKlUz4OICoaGKM77s4yjkf05LrGKZYJsI",
+						"vlink":"2PACX-1vSiNSG9nDeT-z_eS6V3seXfBh-UOovCb0aI2yoN7ivVI9yn9F0RFtT3gtmy__KZoNyfi4PV5zgZuCPW"
+					},
+					{
+						"name":"Chapter 15 : Probability",
+						"dlink":"1fi5pJNCvuZAthhImobGaWjHPGPgPpkK0j_VKj8QL18M",
+						"vlink":"2PACX-1vRZCBKo6AD1tGHBMl56_kLLZYXCk2oES2oa3A6lExnjgsyqdN8YD2YAXTaD-nK9YitslQa8VxHY61CQ"
+					}
+				]
+			},
+			{
+				"name":"Social Studies",
 				"ppts":[
 					{
 						"name":"Development",
@@ -533,6 +745,51 @@
 						"name":"Gender And Politics",
 						"dlink":"1nBEyfmV0pHWYvkXWzdcqlqwIKZ0nSCZiuagrcwj1Jl8",
 						"vlink":"2PACX-1vRkdwVUqTjCCFW_UbiJLO-LMHDuKHw_BTEw6SqKuNxH5yiYSdFm8frrhV2oBda-LqowvSdhILT05XV8"
+					},
+					{
+						"name":"Nationalism",
+						"dlink":"1yLMcCGn3ij8FxN2Lx8G9H6hoML5ZOVKBqNN4ITeZ0ts",
+						"vlink":"2PACX-1vQqSbfdl3C3UGGcI9XVjjM_gkmU0jAVEy53TlXZeTZYlFsagA6CWJLFMoXOhw88mtipCsebTQ7tGv-y"
+					},
+					{
+						"name":"Making of a Global World",
+						"dlink":"12ogXX7U0OprGwEMzXAXxrMja9XL0ut_i4In9gxEXMqI",
+						"vlink":"2PACX-1vRZPdLQhmkPGLwNK9zDeIvL6z_rEDN3IFu1cDDvHx77hdJDbfgw-23Pd75X0gSKIKWBIV2_uVLAQxe-"
+					},
+					{
+						"name":"Print Culture and Novels",
+						"dlink":"1Z6QAI5Ck00PaiemIUCIqrJxGnKcfr277F6c-0-uZJh8",
+						"vlink":"2PACX-1vTzEHV89RXDVwoqJCX2qPsrFF8beXYbQP8-TnrnQTz_NsHbGhNh3GNwvuuMdPaaMSReGuUHm0J49Y9z"
+					}
+				]
+			},
+			{
+				"name":"Social Studies : Geography",
+				"ppts":[
+					{
+						"name":"Resources and Development",
+						"dlink":"1ZTTL7nU-2EhOrDaQ18mymyso7ewGY6Yq69PqHhcDOzU",
+						"vlink":"2PACX-1vQfkwC70GXbu8jvmD7qNt6h-qG_b0UtJWQesWkZEVSJurMSBIUrz8TQBpIS_BGXyejK5MsR_9Db94Jg"
+					},
+					{
+						"name":"Forests and Wildlife Resources",
+						"dlink":"1C9-ZXftDnHs912I1f3YNCw48gTDoaGcariaj-AhdALA",
+						"vlink":"2PACX-1vQ5TL_F-RECFJWLZ78eJNlm8q8ngAuxqLfIM3NR2iyqAbVEN06ToLU8QuuXarYFJ8_FA3ZGTB-rWuuw"
+					},
+					{
+						"name":"Water Resources",
+						"dlink":"1NBScDv9LiPv7AH_Bpx7v2XRl3PaqqMNc-g5Zffbn8L0",
+						"vlink":"2PACX-1vSspDHROJ8Qtg78r6FmJZpLkcp3oDqwWjGzDZ4mK5O2Z3Q5RZ1ceqDR1-5LsGiWRbktWHy_bf7nLzPY"
+					},
+					{
+						"name":"Agriculture",
+						"dlink":"1ScQ9ROpP49q3BksMOyriKFm6fdbk0GwxGmsCbOBEIuI",
+						"vlink":"2PACX-1vQQIN6eajZ8aG_Ucjr10DXEJsb-HRTaASqY3sIh2XEXUvQRWRVvbwid4QQZEwaSy8xI2P_ZONFlskyV"
+					},
+					{
+						"name":"Agriculture",
+						"dlink":"1ScQ9ROpP49q3BksMOyriKFm6fdbk0GwxGmsCbOBEIuI",
+						"vlink":"2PACX-1vQQIN6eajZ8aG_Ucjr10DXEJsb-HRTaASqY3sIh2XEXUvQRWRVvbwid4QQZEwaSy8xI2P_ZONFlskyV"
 					}
 				]
 			}
